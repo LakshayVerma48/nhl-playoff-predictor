@@ -114,6 +114,8 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Output Files
+Output Files/
 # Rope project settings
 .ropeproject
 
